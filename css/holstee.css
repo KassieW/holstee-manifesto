@@ -1,0 +1,59 @@
+body{
+	margin: 0
+}
+main{
+	border: 5px solid tan;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	width: 400px;
+	overflow: auto;
+}
+
+span{
+	font-family: 'Oswald', sans-serif;
+}
+
+.tall_box1{
+	background: #ff8080;
+	font-size: 22px;
+	width: 180px;
+	height: 400px;
+	float: left;
+	line-height: 1.5em;
+	padding: 10px;
+}
+
+.box1, .box4{
+	background: #39ac39;
+	height: 190px;
+	width: 180px;
+	padding: 10px;
+}
+
+.box2, .box5{
+	background: #b3e6b3;
+	height: 190px;
+	width: 180px;
+	padding: 10px;
+}
+
+.box3, .box6{
+	background: #6699cc;
+	height: 190px;
+	padding: 10px;
+	width: 180px;
+}
+
+.left_align{
+	float: left;
+}
+
+.tall_box2{
+	background: #ff8080;
+	font-size: 23px;
+	float: left;
+	width: 180px;
+	height: 400px;
+	line-height: 1.5em;
+	padding: 10px;
+}
